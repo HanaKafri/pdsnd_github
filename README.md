@@ -10,8 +10,9 @@ Replace the Project Title
 Describe what your project is about and what it does
 
 ### Files used
-Include the files used
+- **bikeshare.py**: The main Python script that allows users to filter the data by city, month, and day of the week, and then displays various statistics.
+- **chicago.csv**: Dataset containing bike share data for Chicago (January - June 2017).
+- **new_york_city.csv**: Dataset containing bike share data for New York City (January - June 2017).
+- **washington.csv**: Dataset containing bike share data for Washington, D.C. (January - June 2017).
 
-### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
