@@ -7,7 +7,7 @@
 Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This project provides an analysis of bike share systems data for three major U.S. cities: Chicago, New York City, and Washington, D.C. The script offers insights into popular travel times, stations, trip durations, and user demographics. It also provides an interactive terminal experience to explore the raw data and statistics based on user input.
 
 ### Files used
 Include the files used
